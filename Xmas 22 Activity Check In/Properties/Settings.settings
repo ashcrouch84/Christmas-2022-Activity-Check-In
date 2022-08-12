@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Xmas_22_Activity_Check_In.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="aciName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Build a Bear</Value>
+    </Setting>
+    <Setting Name="aciFTPPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jadzia1984!</Value>
+    </Setting>
+    <Setting Name="aciFTPHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">access802899325.webspace-data.io</Value>
+    </Setting>
+    <Setting Name="aciPin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1111</Value>
+    </Setting>
+    <Setting Name="aciFTPUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u98941559</Value>
+    </Setting>
+    <Setting Name="aciFTPPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="aciRFChild" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/uzmQIAHBSH6kusMp9tNpbSvEn5IGJKaB5ESX3WUWmPeMVNRnBFxudnt4ubtaAfbJ</Value>
+    </Setting>
+    <Setting Name="aciRFAdult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/hQDo6TUAuImqWENYQjdjMHhdKeiFYqsvMKhMPNBgM7oXUCNkXB4rtBH7i3tYubYh</Value>
+    </Setting>
+    <Setting Name="aciRFFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/3hbQnlLEQA870bKszQg8dIWQ5cLzZm2wOCJj5zym0eFKZwgBn2T0ZS9i03fit53q</Value>
+    </Setting>
+    <Setting Name="aciLocalSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="aciLocalBackup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder\Backup</Value>
+    </Setting>
+    <Setting Name="aciRF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/GatherBooking</Value>
+    </Setting>
+    <Setting Name="aciDCPW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TFI4gOfiMnABxa4UG9BuJAh4fUjayi5ySGHVB0XeT3qrgdFh8gj27ArwUUH8pBFZ</Value>
+    </Setting>
+    <Setting Name="aciTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30/12/2021</Value>
+    </Setting>
+    <Setting Name="aciFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1/11/2021</Value>
+    </Setting>
+    <Setting Name="aciWait" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="aciUploadInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="aciActivities" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Build a Bear,Reindeer Food,Cookie Decorating</Value>
+    </Setting>
+    <Setting Name="aciTables" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="aciTableNames" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Paddington,Winnie the Pooh,Rupert,Gummy Bear</Value>
+    </Setting>
+    <Setting Name="aciUseInfo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="aciUploadActivity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/ActivityCheckIn</Value>
+    </Setting>
+    <Setting Name="aciChildChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true,false,true,false,true,false,true,false,true,false,true,false,true,false,true,false,true,false</Value>
+    </Setting>
+    <Setting Name="aciAdultChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true,false,true,false,true,false,true,false,true,false,true,false,true,false,true,false,true,false</Value>
+    </Setting>
+    <Setting Name="aciFamilyChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true,false,true,false,true,false,true,false,true,false,true,false,true,false,true,false,true,false</Value>
+    </Setting>
+    <Setting Name="aciReadWait" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="aciTableRead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="aciTableWrite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="aciRemember" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="aciUnique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="aciDeleteTables" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="aciQuestionFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
